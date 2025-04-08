@@ -22,7 +22,7 @@ Check out how the extension works in Gmail:
 ## 🧰 Tech Stack
 
 ### 🔹 Frontend (Chrome Extension)
-- JavaScript (ES6)
+- Vanilla JavaScript (ES6)
 - Chrome Extension API (Manifest v3)
 
 ### 🔹 Backend (API)
